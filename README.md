@@ -1,5 +1,6 @@
 
-
+<img src="https://github.com/monto8790/NSU/blob/master/img/NSU.jpg" width="300" height="300">
+</img>
 
 AID (Applied Internet of Things and Data Science) Lab is primarily concerned with analyzing and mining complex data in Internet of Things (IoT) environments for the purpose of understanding the underlying phenomena and making various intelligent services. We work on fundamental conceptual issues as well as on a wide variety of practical applications through statistical methods or machine learning and IoT techniques. - Jeongwook Seo, Yungi Park, Jae-Hyun Lim 
 
